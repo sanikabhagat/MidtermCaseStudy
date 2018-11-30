@@ -1,0 +1,5 @@
+Quarter,Name,Total actual deliquent,Total predicted deliquent,Total records,Total deliquent prop classd,Total deliquent improp classd
+1999,LOGISTIC_REG_INIT,987,987,10000,41,946
+1999,LOGISTIC_REG_FIN,987,987,10000,29,958
+1999,RANDOM_FOREST,987,987,10000,294,693
+1999,NEURAL_NETWORK,987,987,10000,84,903
